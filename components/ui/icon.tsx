@@ -16,6 +16,7 @@ cssInterop(IconImpl, {
     nativeStyleToProp: {
       height: 'size',
       width: 'size',
+      color: 'color',
     },
   },
 });
